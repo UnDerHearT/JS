@@ -15,4 +15,4 @@ function printmultiply() {
     output.innerHTML = outputHtml;
 }
 
-runButton.addEventListener('click', printmultiply()); //เมื่อกดปุ่มให้แสดงข้อมูล
+runButton.addEventListener('click', printmultiply) //เมื่อกดปุ่มให้แสดงข้อมูล
